@@ -1,1 +1,1 @@
-const wtf = 2
+function bean(){}
