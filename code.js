@@ -1,1 +1,1 @@
-let alec = "bean"
+const wtf = 2
